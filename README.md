@@ -25,7 +25,7 @@ Write Generate Report Code | Christian
 Write and Add Data Validation Function to code | Reahanna
 Write GenNewReport Code | Raiyan, Priyanka, Reahanna 
 Debugging All Code | Priyanka
-Create Charts/Diagrams/PowerPoint for Presentaion | Reahanna
+Create Charts/Diagrams/PowerPoint for Presentation | Reahanna
 
 - - - -          
 ## Additional
